@@ -1,6 +1,3 @@
-//Name: Abigail Allen
-//Student Id: 500956726
-
 import java.util.ArrayList;
 
 // Make class Student implement the Comparable interface

@@ -1,6 +1,3 @@
-//Name: Abigail Allen
-//Student Id: 500956726
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
